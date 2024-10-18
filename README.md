@@ -1,13 +1,15 @@
-run these 3 commands to setup:
+First setup react native on your PC
+
+and run these 3 commands to setup the project:
 "yarn"
 "cd ios"
 "pod install"
 
-then run these 2 commands to start metro:
+and run these 2 commands to start the metro:
 "cd .."
 "yarn start"
 
-then run one of these 2 commands to run the app:
+and run one of these 2 commands to run the app:
 
 "yarn android"
 "yarn ios"
