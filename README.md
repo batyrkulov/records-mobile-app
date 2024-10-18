@@ -1,13 +1,13 @@
 run these 3 commands to setup:
-yarn
-cd ios
-pod install
+"yarn"
+"cd ios"
+"pod install"
 
 then run these 2 commands to start metro:
-cd ..
-yarn start
+"cd .."
+"yarn start"
 
 then run one of these 2 commands to run the app:
 
-yarn android
-yarn ios
+"yarn android"
+"yarn ios"
